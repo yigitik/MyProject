@@ -1,0 +1,21 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/UnrealProjects/MyProject/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"D:/UnrealProjects/MyProject/Content/Interfaces/BPI_InspectItem.uasset",
+				"D:/UnrealProjects/MyProject/Content/Item_Blueprint/BP_InspectParent.uasset",
+				"D:/UnrealProjects/MyProject/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"D:/UnrealProjects/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/WM/08S7GH2C3LBS8PB9SWTW1B.uasset",
+				"D:/UnrealProjects/MyProject/Content/FirstPerson/Input/Actions/IA_Inspect.uasset",
+				"D:/UnrealProjects/MyProject/Content/FirstPerson/Input/IMC_Default.uasset",
+				"D:/UnrealProjects/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/OM/84DO91L30PRTKDZNEGY7XO.uasset",
+				"D:/UnrealProjects/MyProject/Content/FirstPerson/Input/Actions/IA_StopInspect.uasset",
+				"D:/UnrealProjects/MyProject/Content/StarterContent/Shapes/Shape_Cube.uasset"
+			]
+		}
+	]
+}
